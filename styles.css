@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: black;
+    background: #42c8f5;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
@@ -14,7 +14,7 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: #dcde8c;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -37,6 +37,7 @@ p {
     display: flex;
     overflow-x: auto;
     gap: 10px;
+  background: #89faf6;
 }
 
 .categoria {
